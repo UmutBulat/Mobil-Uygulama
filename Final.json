@@ -1,0 +1,69 @@
+[{
+			" FilmAdi " : " Çığlık " ,
+			" CikisYili " : " 1996 " ,
+			" BasrolAdi " : " Neve Campbell " ,
+			" LogoUrl " : "https://raw.githubusercontent.com/UmutBulat/h5190052umutbulat/main/uyglogo/scream.png" ,
+			" KapakUrl " : "https://raw.githubusercontent.com/UmutBulat/h5190052umutbulat/main/uygkapak/ciglikkapak.jpg" ,
+			" Aciklama " : " Florida'daki cinayetlerden ilk film. 1990 yılı sonbaharında, Danny Rolling cinnet geçirerek dört gün içinde beş öğrenciyi öldürdü.Tabi ki filmde bu durum biraz abartılıyor ama gerçek hikayeden alıntı filmlerinden çok daha gerçekçi. " ,
+			" ImdbPuani " : " 7.8 "
+		},
+		{
+			" FilmAdi " : " Şeytan " ,
+			" CikisYili " : " 1973 " ,
+			" BasrolAdi " : " Linda Blair " ,
+			" LogoUrl " : "https://raw.githubusercontent.com/UmutBulat/h5190052umutbulat/main/uyglogo/seytan.png" ,
+			" KapakUrl " : "https://raw.githubusercontent.com/UmutBulat/h5190052umutbulat/main/uygkapak/seytankapak.jpg" ,
+			" Aciklama " : " 1940'lı yılların sonunda, genç bir baş başa gelen olayları anlatıyor. William Peter Blatty'nin kitap yazmasına ve birkaç yıl sonra da filminin çıkmasına neden olan bir rahip tarafından kaydedilen olaylarla ilgili. " ,
+			" ImdbPuani " : " 7.6 "
+		},
+
+		{
+			" FilmAdi " : " Dehşet Kasabası " ,
+			" CikisYili " : " 1976 " ,
+			" BasrolAdi " : " Neve Campbell " ,
+			" LogoUrl " : "https://raw.githubusercontent.com/UmutBulat/h5190052umutbulat/main/uyglogo/dehsetkasabasi.png" ,
+			" KapakUrl " : "https://raw.githubusercontent.com/UmutBulat/h5190052umutbulat/main/uygkapak/dehsetkasabakapak.jpg" ,
+			" Acıklama " : " 'Phantom Slayer' olarak bilinen, 8 kişiye saldırıp 5 insanı öldüren ve hala tanımlanamayan seri katilin Texarkana Moonlight cinayetlerine dayanıyor. " ,
+			" ImdbPuani " : " 7,9 "
+		},
+
+		{
+			" FilmAdi " : " Emily Rose'un Şeytan Çıkarması " ,
+			" CikisYili " : " 2005 " ,
+			" BasrolAdi " : " Jennifer Carpenter " ,
+			" LogoUrl " : "https://raw.githubusercontent.com/UmutBulat/h5190052umutbulat/main/uyglogo/TheExorcismofEmlyRose.png" ,
+			"KapakUrl": "https://raw.githubusercontent.com/UmutBulat/h5190052umutbulat/main/uygkapak/emilykapak.jpg",
+			" Aciklama " : " Emily adında genç bir kız öldünde herkes, ölümden önce Peder Moore tarafından yapılan şeytan çıkartma ritüelini suçlar Genç kız, içine şeytan girdiği düşüncesi ile kiliseden yardım talep edildi. Peder cinayet zanlısı olarak tutuklanır Peder Moore'u temsil eden avukat Hiç kimse Peder Moore'un söylediklerine inanma eğiliminde değildir.Avukat bu mücadele kendi mantığı ile dini inanç arasında sıkışıp kalırken bir çıkış yolu aramayı sürdürmek. " ,
+			" ImdbPuani " : " 7.6 "
+		},
+
+		{
+			" FilmAdi " : " Annabelle " ,
+			" CikisYili " : " 2014 " ,
+			" BasrolAdi " : " Annabelle Wallis " ,
+			" LogoUrl " : "https://raw.githubusercontent.com/UmutBulat/h5190052umutbulat/main/uyglogo/anabel.png" ,
+			" KapakUrl " : "https://raw.githubusercontent.com/UmutBulat/h5190052umutbulat/main/uygkapak/anabelkapak.jpg",
+			" Aciklama " : " John Form, oyuncak bebek koleksiyonu yapan hamile hamile Mia için yeni bir oyuncağı gözüne kestirir. Beyaz gelinlik giydirilmiş, eşine zor rastlanır bu antika oyuncak bebek Mia için kusursuz bir hediye olacaktır. Mia bekle gibi hediyesi Annabelle'i görünce mutlu olur , ancak bu güzel anlar çok uzun sürmez. Formu Ailesinin Bir gece evleri sapkın Bir tarikat Tarafından basilır ettik ciddi Bir Saldırıya uğrarlar. Saldırganlar uzaklaşırlar ancak hicbir şey Çözülmüş Değildir. Zira Ailenin hiç tahmin edemeyeceği Bir kötü ruhu evde bırakmışlardır. " ,
+			" ImdbPuani " : " 8 "
+		},
+
+		{
+			" FilmAdi " : " Teksas Katliamı " ,
+			" CikisYili " : " 1974 " ,
+			" BasrolAdi " : " Marilyn Burns " ,
+			" LogoUrl " : "https://raw.githubusercontent.com/UmutBulat/h5190052umutbulat/main/uyglogo/teksaskatliam.png",
+			" KapakUrl " : "https://raw.githubusercontent.com/UmutBulat/h5190052umutbulat/main/uygkapak/texsaskapak.jpg",
+			" Aciklama " : " Başrolünü Hollywood'un sevilen yıldızı Zac Efron'un üstlendiği film, 1989'da Florida'da idam edilen ünlü seri katil Ted Bundy'nin hayatına odaklanıyor Karizması sayesinde birçok kadına yaklaşmayı başararak genç kızlara ve kadınlara tecavüz edip onları öldüren seri katil ile uzun dönemli arkadaşı kız arasındaki sorunlu ilişkiyi anlatıyor. " ,
+			" ImdbPuani " : " 6.6 "
+		}, {
+			" FilmAdi " : " Kurt Kapanı " ,
+			" CikisYili " : " 2005 " ,
+			" BasrolAdi " : " John Jarratt " ,
+			" LogoUrl " : "https://raw.githubusercontent.com/UmutBulat/h5190052umutbulat/main/uyglogo/KurtKapani.png",
+			" KapakUrl " : "https://raw.githubusercontent.com/UmutBulat/h5190052umutbulat/main/uygkapak/kurtkapan%C4%B1kapak.jpg",
+			" Aciklama " : " eski bir çiftlik evini ziyaretleri sırasında yamyam bir ailenin kurbanı olan bir grup genci konu alır.Filmin hikâyesi, izleyicinin ilgisini çekmek ama gerçek bir hikâye olarak tanıtıldı ama sadece kurmacadır. Ayrıca Wisconsinli seri katil Ed Gein'in işlediği cinayetlerden esinlenilerek oluşturulmuştu. Ayrıca film, dönemin siyasi tablosu eleştir eleştir aracı olarak seç. " ,
+			" ImdbPuani " : " 6.6 "
+		}
+
+
+	]
