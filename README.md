@@ -17,7 +17,11 @@ Mobil Yazılım Final Projesi Hakkında
 </p>
 
 
+<h2 id="MVC">MVC</h2>
+<p>
+  <img height= "375"  src="https://github.com/UmutBulat/h5190052umutbulat/blob/main/Screens/mvcp.png" alt="SS1" />
 
+</p>
 
 ## Libraries and tools 🛠
 <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a></li>
